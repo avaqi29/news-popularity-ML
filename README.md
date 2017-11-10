@@ -6,7 +6,7 @@
 * Mengqi Xie
 
 ## Introduction
-This project is based on the Online News Popularity Data Set retrieved from UCI Machine Learning Repository, URL: <http://http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity/>
+This project is based on the Online News Popularity Data Set retrieved from UCI Machine Learning Repository, URL: <http://archive.ics.uci.edu/ml/datasets/Online+News+Popularity/>
 
 The goal is to train the learning algorithm to predict the popularity of a certain news. This will be  both a regression task to predict the exact number of shares and also classification for the level of popularity.
 
